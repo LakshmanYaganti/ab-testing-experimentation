@@ -1,0 +1,13 @@
+# Generated data (regenerate from the seed: python -m src.generate_data)
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments / secrets
+.env
+.venv/
+venv/
